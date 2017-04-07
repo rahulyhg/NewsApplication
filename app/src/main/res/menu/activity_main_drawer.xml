@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_news"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="News" />
+        <item
+            android:id="@+id/nav_industry"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Industries" />
+        <item
+            android:id="@+id/nav_events"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Events" />
+        <item
+            android:id="@+id/nav_jobs"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Jobs" />
+    </group>
+
+    <item android:title="About">
+        <menu>
+            <item
+                android:id="@+id/nav_pia"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Peenya Industries Association" />
+            <item
+                android:id="@+id/nav_office_bearers"
+                android:icon="@drawable/ic_menu_send"
+                android:title="PIA Office Bearers" />
+            <item
+                android:id="@+id/nav_managing_council"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Managing Council Members" />
+            <item
+                android:id="@+id/nav_panel_list"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Panel List 2016-17" />
+            <item
+                android:id="@+id/nav_invitee_members"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Invitee Members" />
+            <item
+                android:id="@+id/nav_past_presidents"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Past Presidents of PIA" />
+        </menu>
+    </item>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_help"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Help &amp; Feedback" />
+        </menu>
+    </item>
+
+</menu>

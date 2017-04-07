@@ -1,0 +1,218 @@
+<resources>
+    <string name="app_name">PIA-Connect</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="msg_title">Registration,</string>
+    <string name="msg_title_sub">enter your credentials to get started !</string>
+    <string name="lbl_name">Full Name</string>
+    <string name="lbl_company">Company Title</string>
+    <string name="lbl_email">Email ID</string>
+    <string name="lbl_mobile">10 digit mobile number</string>
+    <string name="lbl_next">REGISTER!</string>
+    <string name="msg_sit_back">Sit back &amp; Relax! while we verify your mobile number</string>
+    <string name="msg_manual_otp">(Enter the OTP below in case if we fail to detect the SMS automatically)</string>
+    <string name="lbl_enter_otp">Enter OTP</string>
+    <string name="lbl_submit">SUBMIT</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="terms_and_conditions"><u><strong>terms &amp; conditions</strong></u></string>
+    <string name="terms_and_conditions_info">By tapping \'Register\' you agree to the</string>
+    <string name="title_activity_terms_conditions">Terms &amp; Conditions</string>
+    <string name="pia_about">
+        "The Peenya Industries association, which was founded in 1978 with a handful of enthusiastic entrepreneurs with the objective of safeguarding the interest of industrial units in Peenya Complex, now has 3700 members. Over the years the Association has transformed itself from a welfare organisation into a facilitator for the promotion and growth of small-scale industries. The Association has attained the status of being recognised by both the Central and State Governments in the formulation of industrial policies.\n\n"
+
+        "The Association is a registered body under Karnataka Societies Registration Act, 1960. The Council of Management of the Association consists of six office bearers and 12 managing council members who are elected for a term of one year in the AGM. The Association has its own premises at a prime location in the Peenya Industrial Complex.\n\n"
+        "The Association organises Growth Programmes, Vendor Development Programmes, ISO Certification Programmes, Refresher Courses, Training Programmes, Seminars and symposiums and Workshops, Interactive Meetings on various Technical, Commercial and Management topics of interest to the members. The Association also renders community services.\n\n"
+
+        "Our Association is one of the largest in the country with its presence noted in all the circles of Industry Associations across the country. Our Association has been in the forefront in tackling the problems faced by the SSI’s. We enjoy the distinction of being one of the leading pro-active associations in the State.\n\n"
+
+        "The Association has successfully completed 30 years of its service to the members with various promotional, growth and developmental activities for the benefit of the small-scale industries in this prestigious industrial complex. Our Association has also been coordinating with other SSI Associations in Karnataka for the well being of the SSI’s.\n\n"
+
+        "Our Association is affiliated to all the major National and State Level Associations like CII, ICSI, GMCI, FKCCI, and KASSIA.\n\n"
+
+        "Our Association is represented in the various committees of the Government Departments like Industries and Commerce, RBI, Central Excise &amp; Customs, Commercial Taxes, etc., and needs to be represented in all the Consultative Committees of all the other various Government Departments. in which our Association has no representation for wider interaction buy cialis cheap in the matters related to Micro and SSI’s.\n\n"
+
+    </string>
+    <string name="o_name_1">R.Krishnamurthy</string>
+    <string name="o_designation_1">President</string>
+    <string name="o_mobile_1">99723 72101</string>
+
+    <string name="o_name_2">Dr. Jayaramu</string>
+    <string name="o_designation_2">Imdt. Past President</string>
+    <string name="o_mobile_2">98450 46262</string>
+
+    <string name="o_name_3">Malayadri Reddy .M </string>
+    <string name="o_designation_3">Vice President </string>
+    <string name="o_mobile_3">93412 29507</string>
+
+    <string name="o_name_4">Prakash .C </string>
+    <string name="o_designation_4">Hon. Secretary</string>
+    <string name="o_mobile_4">93794 00900</string>
+
+    <string name="o_name_5">Ravi Prakash .K.B</string>
+    <string name="o_designation_5">Treasurer</string>
+    <string name="o_mobile_5">98452 12755</string>
+
+    <string name="o_name_6">ArunKumar .R </string>
+    <string name="o_designation_6">Jt. Secretary</string>
+    <string name="o_mobile_6">96861 11972</string>
+
+    <string name="o_name_7">Kantharaju .S </string>
+    <string name="o_designation_7">Jt. Treasurer</string>
+    <string name="o_mobile_7">99459 29826</string>
+
+    <string name="m_name_1">Chandra Shekar H.C</string>
+    <string name="m_mobile_1">97340 85493</string>
+
+    <string name="m_name_2">Doddaiah D.R</string>
+    <string name="m_mobile_2">94480 89900</string>
+
+    <string name="m_name_3">H. Srinivas</string>
+    <string name="m_mobile_3">98541 68840</string>
+
+    <string name="m_name_4">Krishnamurthy .C</string>
+    <string name="m_mobile_4">94483 76848</string>
+
+    <string name="m_name_5">Kumar .R</string>
+    <string name="m_mobile_5">99801 60318</string>
+
+    <string name="m_name_6">Mayank Kaushik</string>
+    <string name="m_mobile_6">98440 69741</string>
+
+    <string name="m_name_7">Meenesh Kumar</string>
+    <string name="m_mobile_7">99862 45599</string>
+
+    <string name="m_name_8">Murali Krishna .B</string>
+    <string name="m_mobile_8">98451 34612</string>
+
+    <string name="m_name_9">Nanjundappa .N</string>
+    <string name="m_mobile_9">93419 59060</string>
+
+    <string name="m_name_10">Puttarajappa .C</string>
+    <string name="m_mobile_10">94480 81502</string>
+
+    <string name="m_name_11">Shyam Chandran</string>
+    <string name="m_mobile_11">98863 10807</string>
+
+    <string name="m_name_12">Sridhar K.N</string>
+    <string name="m_mobile_12">94481 39975</string>
+
+    <string name="p_name_1">Mr.J.D.COSTA (FOUNDER PRESIDENT)</string>
+    <string name="p_year_1">1978&#8211;80</string>
+
+    <string name="p_name_2">Mr.S.K.SESHADRI</string>
+    <string name="p_year_2">1980&#8211;82</string>
+
+    <string name="p_name_3">Mr.K.M.MATHUR</string>
+    <string name="p_year_3">1982&#8211;84</string>
+
+    <string name="p_name_4">Mr.N.NARASIMHAN</string>
+    <string name="p_year_4">1984&#8211;85</string>
+
+    <string name="p_name_5">Mr.SHIVAKUMAR</string>
+    <string name="p_year_5">1985&#8211;86</string>
+
+    <string name="p_name_6">Mr.K.S.RAMANATH</string>
+    <string name="p_year_6">1986&#8211;87</string>
+
+    <string name="p_name_7">Mr.S.K.BAJAJ</string>
+    <string name="p_year_7">1987&#8211;88</string>
+
+    <string name="p_name_8">Mr.B.L.NARAYANA MOORTHY</string>
+    <string name="p_year_8">1988&#8211;89</string>
+
+    <string name="p_name_9">Mr.V.K.BANGERA</string>
+    <string name="p_year_9">1989&#8211;90</string>
+
+    <string name="p_name_10">Mr.E.S.RAJAN</string>
+    <string name="p_year_10">1990&#8211;91</string>
+
+    <string name="p_name_11">Mr.J.CRASTA</string>
+    <string name="p_year_11">1991&#8211;92</string>
+
+    <string name="p_name_12">Mr.R.A.KOTYAN</string>
+    <string name="p_year_12">1992&#8211;93</string>
+
+    <string name="p_name_13">Mr.V.J.RAMESH</string>
+    <string name="p_year_13">1993&#8211;94</string>
+
+    <string name="p_name_14">Mr.H.R.JAIRAM</string>
+    <string name="p_year_14">1994&#8211;95</string>
+
+    <string name="p_name_15">Mr.N.JAYAKUMAR</string>
+    <string name="p_year_15">1995&#8211;96</string>
+
+    <string name="p_name_16">Mr.R.PRITHVIRAJ</string>
+    <string name="p_year_16">1996&#8211;97</string>
+
+    <string name="p_name_17">Mr.ARVIND N.BURJI</string>
+    <string name="p_year_17">1997&#8211;98</string>
+
+    <string name="p_name_18">Mr.N.JAGANNATHAN</string>
+    <string name="p_year_18">1998&#8211;99</string>
+
+    <string name="p_name_19">Mr.HAREESH.P.HEGDE</string>
+    <string name="p_year_19">1999&#8211;00</string>
+
+    <string name="p_name_20">Mr.PRAKASH.N.RAIKAR</string>
+    <string name="p_year_20">2000&#8211;01</string>
+
+    <string name="p_name_21">Mr.B.CHANDRAHASA SHETTY</string>
+    <string name="p_year_21">2001&#8211;02</string>
+
+    <string name="p_name_22">Mr.A.VIJAYENDRANATH</string>
+    <string name="p_year_22">2002&#8211;03</string>
+
+    <string name="p_name_23">Mr.N.PRAHALLADA</string>
+    <string name="p_year_23">2003&#8211;04</string>
+
+    <string name="p_name_24">Mr.B.R.GANESH RAO</string>
+    <string name="p_year_24">2004&#8211;05</string>
+
+    <string name="p_name_25">Mr.A.PADMANABHA</string>
+    <string name="p_year_25">2005&#8211;06</string>
+
+    <string name="p_name_26">P.S.Srikanta Dutta</string>
+    <string name="p_year_26">2006&#8211;07</string>
+
+    <string name="p_name_27">K.V. RAJENDRA  KUMAR</string>
+    <string name="p_year_27">2007&#8211;08</string>
+
+    <string name="p_name_28">Mr.M.D.PRABHU</string>
+    <string name="p_year_28">2008&#8211;09</string>
+
+    <string name="p_name_29">Mr.S.KRISHNA KUMAR</string>
+    <string name="p_year_29">2009&#8211;10</string>
+
+    <string name="p_name_30">Mr. RAMAKRISHNA MUDGAL</string>
+    <string name="p_year_30">2009&#8211;10</string>
+
+    <string name="p_name_31">Mr.S.M.HUSSAIN</string>
+    <string name="p_year_31">2009&#8211;10</string>
+
+    <string name="p_name_32">Mr.K.B.ARASAPPA</string>
+    <string name="p_year_32">2010&#8211;11</string>
+
+    <string name="p_name_33">S. Balasubramanyam</string>
+    <string name="p_year_33">2011&#8211;12</string>
+
+    <string name="p_name_34">Ravi Basavraju</string>
+    <string name="p_year_34">2012&#8211;13</string>
+
+    <string name="p_name_35">Latha Girish</string>
+    <string name="p_year_35">2013&#8211;14</string>
+
+    <string name="p_name_36"> </string>
+    <string name="p_year_36">2014&#8211;15</string>
+
+    <string name="p_name_37">Dr. Jayaramu</string>
+    <string name="p_year_37">2015&#8211;16</string>
+
+    <string name="terms_conditions">
+        "By accessing or using any of the Peenya Industries Association (“PIA”), Internet properties including, without limitation, peenyaindustries.org, mobile websites, micro-sites, mobile applications, PIA profiles on social media sites and any other digital services or properties operated or used by PIA from time to time (collectively referred to as the "Sites") you agree to comply with and be bound by these Terms of Use ("Terms of Use"). Please read these Terms of Use carefully as well as PIA privacy policy. <b> If you do not agree to the Terms of Use, and the Privacy Policy, you must immediately terminate use of the Sites.</b>"
+    </string>
+
+</resources>

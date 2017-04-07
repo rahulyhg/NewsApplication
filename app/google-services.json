@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "658707323136",
+    "firebase_url": "https://pia-connect-27ee1.firebaseio.com",
+    "project_id": "pia-connect-27ee1",
+    "storage_bucket": "pia-connect-27ee1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658707323136:android:ce13954901ed6465",
+        "android_client_info": {
+          "package_name": "org.peenyaindustries.piaconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658707323136-ce73nipfdk345fopg99mqj0810kb5qhh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu1_EDA80zxGGS1AOh25FBJ-bv9lPC4N0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
